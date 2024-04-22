@@ -54,3 +54,52 @@ _Minitab:_
 
 _IBM SPSS Modeler:_
 - IBM's SPSS Modeler is a popular tool for creating graphical machine learning models, offering an intuitive interface for users to design tasks, connect them, and visually explore results.
+
+_RapidMiner:_
+- RapidMiner is a graphical machine learning tool, similar to IBM SPSS Modeler, with access to various algorithms in a visually designed workflow.
+- It also provides prebuilt analytic templates for business scenarios.
+
+# Analytics Suites
+- Most organizations now prefer using comprehensive analytics suites that cover all stages of the analytics process.
+- These tools enable analysts to handle data ingestion and cleaning, statistical analysis, data visualization, model building, prediction making, and reporting.
+- While these packages are costlier, they offer an integrated environment for collaboration between analysts and developers.
+
+_IBM Cognos:_
+- IBM Cognos is an integrated analytics suite that provides analysts in organizations with access to data through a web-based platform.
+- It utilizes IBM's Watson artificial intelligence capability and includes components like Cognos Connection for portal access, Query Studio for data querying, Report Studio for advanced report design, Analysis Studio for modeling and analytics, Event Studio for real-time data monitoring, Metric Studio for creating scorecards, and Cognos Viewer for stakeholders to interact with data and analyses.
+- This suite is designed to help business leaders make informed decisions by providing insights from data analysis.
+
+_Microsoft Power BI:_
+- Power BI is Microsoft's analytics suite built on the popular SQL Server database platform, favored by organizations for easy integration with other Microsoft software.
+- Components include Power BI Desktop for data analysts, the Power BI service for cloud access, mobile apps for iOS, Android, and Windows, Power BI Report Builder for paginated reports, and Power BI Report Server for internal hosting.
+- This suite enables users to interact with data, create reports, and share insights within their organization.
+- Power BI's popularity lies in its cost-effective bundling with Microsoft enterprise licenses and its seamless integration with other Microsoft products.
+
+_MicroStrategy:_
+- MicroStrategy is a lesser-known analytics suite compared to IBM and Microsoft.
+- Despite this, it has a strong user base and offers similar tools for building dashboards, reports, and utilizing machine learning on business data.
+
+_Domo:_
+- Domo is a SaaS analytics platform for businesses to analyze and model their data.
+- While not widely used, it is included in the objectives for the Data exam.
+
+_Datorama:_
+- Salesforce Datorama utilizes machine learning and visualization to analyze sales and marketing data.
+- It is a specialized analytics tool tailored for optimizing sales and marketing strategies within an organization.
+
+_AWS QuickSight:_
+- AWS QuickSight is a dashboarding tool included in Amazon Web Services.
+- It is unique because of its pay-as-you-go model and integration with data storage, warehousing, machine learning, and AI capabilities within the Amazon cloud.
+
+_Tableau:_
+- Tableau is a widely used data visualization tool known for its easy data integration from various sources and strong visualization features.
+- It helps users quickly identify trends and analyze specific details within their data.
+
+_Qlik:_
+- Qlik is a widely used SaaS analytics platform that offers cloud-based analytics tools. 
+- Its main products are QlikView, which provides quick insights, and Qlik Sense, a more advanced and costly platform with sophisticated analytics features.
+
+_BusinessObjects:_
+- BusinessObjects from SAP is an enterprise reporting tool offering a robust reporting and analytics environment.
+- Its key strength lies in the ability to seamlessly integrate reports with other applications, enhancing workflow efficiency.
+
